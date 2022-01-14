@@ -435,7 +435,6 @@ body {
   padding-top: 6.5rem;
 }
 
-/*feeds header */
 .feeds-header {
   grid-column: 2 / 3;
   grid-row: 1 /2;
@@ -493,7 +492,7 @@ body {
   color: #1aa1f5;
   margin: 1rem;
 }
-/* end of feeds header */
+
 /* end of feeds content */
 
 /* end of newsfeed page */
