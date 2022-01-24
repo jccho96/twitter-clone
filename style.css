@@ -971,6 +971,20 @@ body {
   left: 2.5rem;
   background-color: #117abb;
 }
+
+.dark-1 {
+  background-color: #212d44;
+}
+.dark-2 {
+  background-color: #121725 !important;
+}
+.light {
+  color: #fff;
+}
+.border-color {
+  border-color: #444 !important;
+}
+
 /* end of dark mode */
 /* end of sidebar */
 /* end of newsfeed page */
